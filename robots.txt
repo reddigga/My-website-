@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reddigga.github.io/My-website-/sitemap.xml
